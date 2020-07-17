@@ -1,6 +1,6 @@
 # wifi_passcode
 
-This project is the help developer to extract wifi name and password. 
+This project is the help developer to extract wifi name and password which is already saved in the linux laptop.
 
 sudo python wifi_data.py
 
