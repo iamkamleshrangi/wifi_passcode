@@ -1,6 +1,9 @@
 # wifi_passcode
 
-This project is the help developer to extract wifi name and password which is already saved in the linux laptop.
+This project is primarly focus to help developer to extract wifi passwords which are already saved in the local linux system.
+So it acctulay look into your system files to extract the wifi name and password.
+
+To run the code, type sudo python wifi_data.py, For that project you have to do sudo followed by python command.
 
 sudo python wifi_data.py
 
@@ -14,3 +17,6 @@ Output
 [WIFI] data scientist  [PASSWORD] ******* <br>
 [WIFI] iBall-Baton [PASSWORD] ******* <br>
 ==========================================<br>
+
+
+Thanks, 
