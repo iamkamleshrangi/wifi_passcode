@@ -6,7 +6,7 @@ To run the code, type sudo python wifi_data.py, For that project you have to do 
 
 sudo python wifi_data.py
 
-Output
+Output<br/ >
 =========================================<br>
 [WIFI] Priyanka [PASSWORD] ******* <br>
 [WIFI] WLCI [PASSWORD] ******* <br>
